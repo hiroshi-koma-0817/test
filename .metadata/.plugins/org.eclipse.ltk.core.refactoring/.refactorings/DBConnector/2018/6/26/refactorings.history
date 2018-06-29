@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;testdb.sql&apos; to &apos;sql&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;DBConnector&apos;&#x0D;&#x0A;- 宛先要素: &apos;sql&apos;&#x0D;&#x0A;- オリジナル要素: &apos;testdb.sql&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新" description="ファイルを移動する" element1="testdb.sql" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1530149726149" target="sql" units="0" version="1.0"/>
+</session>
