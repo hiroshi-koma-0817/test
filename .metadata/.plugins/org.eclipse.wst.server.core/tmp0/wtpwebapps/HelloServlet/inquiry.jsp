@@ -14,7 +14,7 @@
 
 <body>
 
-    <form method="post" action="InquirySerlet">
+    <form method="post" action="InquiryServlet">
         名前:<br> <input type="text" name="name"><br>
         お問い合わせの種類:<br> <select name="qtype">
             <option value="company">会社について</option>
