@@ -1,3 +1,4 @@
+package com.internousdev.login.util;
 /**
  * 
  */
@@ -5,4 +6,3 @@
  * @author internousdev
  *
  */
-package com.internousdev.login.util;
